@@ -4,8 +4,6 @@ Design of a server farm using queueing theory and simulation
 
 In this lab, we want to use SimPy and queueing models to determine the best design for a server farm.
 
-![Single server system](images/queue.svg)
-
 The learning goals of this lab are:
 
 - to apply queueing models such as M/M/1 and M/M/c to a real-world system,
