@@ -19,7 +19,7 @@ Problem description
 
 A company is developing a web application that is expected to have a high load. The company wants to design an efficient server farm to handle the incoming requests. Your task is to analyze and compare different designs for the server farm using queueing theory and discrete-event simulation.
 
-The company has bought a server with a CPU cores. How can they get the best performance for their money? 
+The company has bought a server with 8 CPU cores. How can they get the best performance for their money? 
 
 The performance metrics to evaluate are:
 
