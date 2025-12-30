@@ -70,9 +70,10 @@ In addition to the fast 8-core server, the company has an old 1-core server. It 
 
 The company wants to know if this configuration can improve the throughput and the response time.
 
-You should be able to reuse your simulation models from options 1-3 with the following assumptions:
+Without using simulations or computations, can you find simple arguments to answer the following questions:
 
-- The fast server handles 8/9 of the incoming requests, the small server 1/9 of the requests.
-- You can combine the metric using the same weights (8/9 and 1/9).
+- How does adding the old server affect the maximum throughput? Does it decrease, increase, or stay the same?
+- How does adding the old server affect the response time? Does it decrease, increase, or stay the same?
+- Can you imagine a scenario where adding the old server is useful?
 
 Document your findings and results in the report.
